@@ -1,6 +1,9 @@
 package tek.capstone.guardians.steps;
 
+import java.util.List;
+
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 import io.cucumber.java.en.Then;
@@ -140,10 +143,17 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on first order in list")
 	public void userClickOnFirstOrderInList() {
-		click(factory.orderPage().firstOrderPlaced);
-		logger.info("First order clicked");
+//		click(factory.orderPage().ItemsShowDetails);
+//		logger.info("First order clicked")
+		List<WebElement> listOfOrders = factory.orderPage().listOfOrders;
+		for (int i = 0; i < listOfOrders.size(); i++) {
+			if (listOfOrders.get(i).getText().equalsIgnoreCase("Hide Details")) {
+			} else if (listOfOrders.get(i).getText().equalsIgnoreCase("Show Details")) {
+				click(factory.orderPage().listOfOrders.get(i));
+			}
+		}
+		logger.info("first order in list clicked");
 	}
-
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() {
 		click(factory.orderPage().cancelTheOrderBttn);
@@ -162,7 +172,14 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.orderPage().orderCancelBtn);
 		logger.info("cancel order button clicked");
 	}
+	@Then("a cancelation message should be displayed {string}")
+	public void aCancelationMessageShouldBeDisplayed(String cancellationMsg) {
+		waitTillPresence(factory.orderPage().orderCancellationMsg);
 
+        Assert.assertEquals(cancellationMsg, factory.orderPage().orderCancellationMsg.getText());
+
+        logger.info("cancelation message displayed");
+	}
 	// return order
 	@When("User clicks on Orders section")
 	public void userClicksOnOrdersSection() {

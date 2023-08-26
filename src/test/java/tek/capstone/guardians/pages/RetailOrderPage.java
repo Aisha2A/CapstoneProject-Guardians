@@ -1,5 +1,7 @@
 package tek.capstone.guardians.pages;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -111,4 +113,7 @@ public class RetailOrderPage extends BaseSetup {
 // delete order
 	@FindBy(xpath = "//span[@class='cart__item-delete']")
 	public WebElement deleteOrderList;
+	@FindBy(xpath = "//div[@class='order']//descendant::p[7]")
+
+	public List<WebElement> listOfOrders;
 }
