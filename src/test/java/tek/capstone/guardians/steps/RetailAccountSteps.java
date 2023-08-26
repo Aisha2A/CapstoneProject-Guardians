@@ -187,8 +187,8 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("edit address link clicked");
 	}
 
-	@And("user fill new address form with below informations")
-	public void userFillNewAddressFormWithBelowInformations(DataTable dataTable) throws InterruptedException {
+	@And("user fill new address form with below informationss")
+	public void userFillNewAddressFormWithBelowInformationss(DataTable dataTable) throws InterruptedException {
 		List<Map<String, String>> addressInfo = dataTable.asMaps(String.class, String.class);
 		for (int i = 0; i < addressInfo.size(); i++) {
 			sendText(factory.accountPage().countryDropdown, addressInfo.get(0).get("country"));
@@ -216,12 +216,14 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("update address button clicked");
 	}
 
-	@Then("update address message should be displayed {string}")
-	public void updateAddressMessageShouldBeDisplayed() {
-		waitTillPresence(factory.accountPage().AddingAddressMSG);
-		Assert.assertTrue(factory.accountPage().AddingAddressMSG.isDisplayed());
-		logger.info("message for adding address displayed");
-	}
+
+
+	@And("update address message should be displayed 'Address Updated Successfully'")
+	    public void updateAddressMessageShouldBeDisplayed() {
+	        waitTillPresence(factory.accountPage().addressUpdateSuccessMsg);
+	        Assert.assertTrue(factory.accountPage().addressUpdateSuccessMsg.isDisplayed());
+	        logger.info("update address message displayed");
+	    }
 
 	// remove address
 	@And("User click on remove option of Address section")

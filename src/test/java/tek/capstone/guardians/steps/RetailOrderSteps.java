@@ -219,8 +219,8 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("return order button clicked");
 	}
 
-	@Then("the cancelation message should be displayed 'Return was successful'​")
-	public void theCancelationMessageShouldBeDisplayedReturnWasSuccessful​() {
+	@Then("the cancelation message should be displayed {string}")
+	public void theCancelationMessageShouldBeDisplayed(String string) {
 		Assert.assertTrue(factory.orderPage().orderReturnSuccessMsg.isDisplayed());
 		logger.info("return was successful");
 	}
@@ -257,8 +257,8 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("add review button clicked");
 	}
 
-	@Then("a review message should be displayed ‘Your review was added successfully’​")
-	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully​() {
+	@Then("a review message should be displayed ‘Your review was added successfully’")
+	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
 		waitTillPresence(factory.orderPage().reviewAddedSuccessMsg);
 		Assert.assertTrue(factory.orderPage().reviewAddedSuccessMsg.isDisplayed());
 		logger.info("review message diplayed");

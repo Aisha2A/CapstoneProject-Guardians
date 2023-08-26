@@ -33,7 +33,7 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement addToCartBtn;
 
 //second scenario 
-	@FindBy(xpath = "//img[@class='image']")
+	@FindBy(xpath = "//p[@class='products__name']")
 	public WebElement apexItem;
 
 	@FindBy(id = "cartBtn")
