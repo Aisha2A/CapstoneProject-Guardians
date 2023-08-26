@@ -1,0 +1,39 @@
+2023-08-25 21:58:53,781 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 21:58:53,944 - logger_file -INFO - signin button clicked
+2023-08-25 21:58:54,190 - logger_file -INFO - email and password entered successfully
+2023-08-25 21:58:54,279 - logger_file -INFO - login button clicked
+2023-08-25 21:58:54,504 - logger_file -INFO - User is logged in
+2023-08-25 21:58:54,675 - logger_file -INFO - order section clicked
+2023-08-25 21:58:55,964 - logger_file -INFO - first order in list clicked
+2023-08-25 22:20:43,128 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 22:20:43,289 - logger_file -INFO - signin button clicked
+2023-08-25 22:20:43,530 - logger_file -INFO - email and password entered successfully
+2023-08-25 22:20:43,620 - logger_file -INFO - login button clicked
+2023-08-25 22:20:43,797 - logger_file -INFO - User is logged in
+2023-08-25 22:20:43,958 - logger_file -INFO - order section clicked
+2023-08-25 22:20:45,309 - logger_file -INFO - first order in list clicked
+2023-08-25 22:21:44,531 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 22:21:44,746 - logger_file -INFO - signin button clicked
+2023-08-25 22:21:45,021 - logger_file -INFO - email and password entered successfully
+2023-08-25 22:21:45,128 - logger_file -INFO - login button clicked
+2023-08-25 22:21:45,307 - logger_file -INFO - User is logged in
+2023-08-25 22:21:45,496 - logger_file -INFO - order section clicked
+2023-08-25 22:21:46,991 - logger_file -INFO - first order in list clicked
+2023-08-25 22:22:27,425 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 22:22:27,643 - logger_file -INFO - signin button clicked
+2023-08-25 22:22:27,941 - logger_file -INFO - email and password entered successfully
+2023-08-25 22:22:28,047 - logger_file -INFO - login button clicked
+2023-08-25 22:22:28,228 - logger_file -INFO - User is logged in
+2023-08-25 22:22:28,431 - logger_file -INFO - order section clicked
+2023-08-25 22:22:30,030 - logger_file -INFO - first order in list clicked
+2023-08-25 22:25:02,539 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 22:25:02,719 - logger_file -INFO - signin button clicked
+2023-08-25 22:25:02,985 - logger_file -INFO - email and password entered successfully
+2023-08-25 22:25:03,084 - logger_file -INFO - login button clicked
+2023-08-25 22:25:03,314 - logger_file -INFO - User is logged in
+2023-08-25 22:25:03,501 - logger_file -INFO - order section clicked
+2023-08-25 22:25:05,084 - logger_file -INFO - first order in list clicked
+2023-08-25 22:25:05,194 - logger_file -INFO - cancel order button clicked
+2023-08-25 22:25:05,478 - logger_file -INFO - cancelation reason been selected
+2023-08-25 22:25:05,580 - logger_file -INFO - cancel order button clicked
+2023-08-25 22:25:05,702 - logger_file -INFO - cancelation message displayed
