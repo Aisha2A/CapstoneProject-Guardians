@@ -1,4 +1,4 @@
-@testThree
+@smoke
 Feature: Retail Order Page
 
   Background: 

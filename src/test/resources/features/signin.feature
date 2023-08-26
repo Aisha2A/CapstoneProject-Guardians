@@ -1,4 +1,4 @@
-@testFour
+@smoke
 Feature: Sign in Feature
 
   Background: 

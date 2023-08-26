@@ -1,4 +1,4 @@
-@testtwo
+@smoke
 Feature: Home Page
 
   Background: 

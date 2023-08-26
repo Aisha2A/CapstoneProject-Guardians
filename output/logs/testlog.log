@@ -37,3 +37,10 @@
 2023-08-25 22:25:05,478 - logger_file -INFO - cancelation reason been selected
 2023-08-25 22:25:05,580 - logger_file -INFO - cancel order button clicked
 2023-08-25 22:25:05,702 - logger_file -INFO - cancelation message displayed
+2023-08-25 22:27:58,666 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-25 22:27:58,850 - logger_file -INFO - signin button clicked
+2023-08-25 22:27:59,126 - logger_file -INFO - email and password entered successfully
+2023-08-25 22:27:59,224 - logger_file -INFO - login button clicked
+2023-08-25 22:27:59,404 - logger_file -INFO - User is logged in
+2023-08-25 22:27:59,611 - logger_file -INFO - order section clicked
+2023-08-25 22:28:01,253 - logger_file -INFO - first order in list clicked
