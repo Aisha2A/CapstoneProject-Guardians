@@ -53,7 +53,7 @@ public class RetailOrderPage extends BaseSetup {
 
 	public WebElement orderConfirmationNumber;
 
-	@FindBy(id = "orderSubmitBtn")
+	@FindBy(xpath="//button[@id='orderSubmitBtn']")
 	public WebElement orderCancelBtn;
 
 	@FindBy(id = "returnBtn")
