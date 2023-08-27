@@ -1448,3 +1448,181 @@
 2023-08-25 23:40:20,536 - logger_file -INFO - Signup Information entered successfully
 2023-08-25 23:40:20,628 - logger_file -INFO - Signup button clicked successfully
 2023-08-25 23:40:20,860 - logger_file -INFO - Account page is displayed
+2023-08-27 08:49:11,234 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:11,585 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:11,883 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:12,002 - logger_file -INFO - login button clicked
+2023-08-27 08:49:12,290 - logger_file -INFO - User is logged in
+2023-08-27 08:49:12,502 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:12,987 - logger_file -INFO - user name and phone number are updated successfully
+2023-08-27 08:49:13,107 - logger_file -INFO - Update button clicked successfully
+2023-08-27 08:49:13,767 - logger_file -INFO - profile information updated successfully
+2023-08-27 08:49:19,543 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:19,688 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:20,036 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:20,166 - logger_file -INFO - login button clicked
+2023-08-27 08:49:20,350 - logger_file -INFO - User is logged in
+2023-08-27 08:49:20,575 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:20,705 - logger_file -INFO - Add payment link is clicked
+2023-08-27 08:49:21,285 - logger_file -INFO - Card information entered
+2023-08-27 08:49:21,404 - logger_file -INFO - Add Card button is clicked
+2023-08-27 08:49:22,097 - logger_file -INFO - message is displayed: Payment Method added sucessfully
+2023-08-27 08:49:26,169 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:26,300 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:26,577 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:26,666 - logger_file -INFO - login button clicked
+2023-08-27 08:49:26,851 - logger_file -INFO - User is logged in
+2023-08-27 08:49:27,053 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:27,316 - logger_file -INFO - Edit option clicked
+2023-08-27 08:49:28,088 - logger_file -INFO - Information has been edited
+2023-08-27 08:49:28,194 - logger_file -INFO - Update button has been clicked
+2023-08-27 08:49:32,091 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:32,231 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:32,524 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:32,631 - logger_file -INFO - login button clicked
+2023-08-27 08:49:32,854 - logger_file -INFO - User is logged in
+2023-08-27 08:49:33,059 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:33,311 - logger_file -INFO - remove button clicked successfully
+2023-08-27 08:49:33,339 - logger_file -INFO - payment details removed
+2023-08-27 08:49:36,296 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:36,622 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:36,917 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:37,026 - logger_file -INFO - login button clicked
+2023-08-27 08:49:37,210 - logger_file -INFO - User is logged in
+2023-08-27 08:49:37,415 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:37,578 - logger_file -INFO - Add address link clicked
+2023-08-27 08:49:38,638 - logger_file -INFO - Address form filled
+2023-08-27 08:49:38,757 - logger_file -INFO - Add Address button clicked
+2023-08-27 08:49:39,415 - logger_file -INFO - message for adding address displayed
+2023-08-27 08:49:42,674 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:42,925 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:43,222 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:43,322 - logger_file -INFO - login button clicked
+2023-08-27 08:49:43,506 - logger_file -INFO - User is logged in
+2023-08-27 08:49:43,737 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:43,901 - logger_file -INFO - edit address link clicked
+2023-08-27 08:49:45,501 - logger_file -INFO - New address form filled
+2023-08-27 08:49:45,672 - logger_file -INFO - update address button clicked
+2023-08-27 08:49:46,327 - logger_file -INFO - update address message displayed
+2023-08-27 08:49:50,606 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:50,786 - logger_file -INFO - signin button clicked
+2023-08-27 08:49:51,191 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:49:51,324 - logger_file -INFO - login button clicked
+2023-08-27 08:49:51,558 - logger_file -INFO - User is logged in
+2023-08-27 08:49:51,785 - logger_file -INFO - Account link clicked
+2023-08-27 08:49:51,951 - logger_file -INFO - remove button clicked
+2023-08-27 08:49:55,737 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:55,902 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:49:55,960 - logger_file -INFO - 'All'sidebar is present: Electronics
+2023-08-27 08:49:59,067 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:49:59,252 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:49:59,371 - logger_file -INFO - options are present in department
+2023-08-27 08:50:02,324 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:02,626 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:50:02,679 - logger_file -INFO - user is on All department
+2023-08-27 08:50:02,785 - logger_file -INFO - options are present in department
+2023-08-27 08:50:05,721 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:06,068 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:50:06,123 - logger_file -INFO - user is on All department
+2023-08-27 08:50:06,165 - logger_file -INFO - user is on All department
+2023-08-27 08:50:06,268 - logger_file -INFO - options are present in department
+2023-08-27 08:50:09,071 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:09,341 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:50:09,399 - logger_file -INFO - user is on All department
+2023-08-27 08:50:09,438 - logger_file -INFO - user is on All department
+2023-08-27 08:50:09,474 - logger_file -INFO - user is on All department
+2023-08-27 08:50:09,582 - logger_file -INFO - options are present in department
+2023-08-27 08:50:13,447 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:13,600 - logger_file -INFO - All section clicked successfully
+2023-08-27 08:50:13,654 - logger_file -INFO - user is on All department
+2023-08-27 08:50:13,690 - logger_file -INFO - user is on All department
+2023-08-27 08:50:13,727 - logger_file -INFO - user is on All department
+2023-08-27 08:50:13,771 - logger_file -INFO - user is on All department
+2023-08-27 08:50:13,807 - logger_file -INFO - user is on All department
+2023-08-27 08:50:13,822 - logger_file -INFO - options are present in department
+2023-08-27 08:50:16,324 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:16,557 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:16,803 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:16,897 - logger_file -INFO - login button clicked
+2023-08-27 08:50:17,073 - logger_file -INFO - User is logged in
+2023-08-27 08:50:17,299 - logger_file -INFO - The category is changed to Smart Home
+2023-08-27 08:50:17,425 - logger_file -INFO - user search for kasa outdoor smart blug
+2023-08-27 08:50:17,515 - logger_file -INFO - search icon clicked
+2023-08-27 08:50:17,672 - logger_file -INFO - item clicked successfully
+2023-08-27 08:50:18,016 - logger_file -INFO - quantity selected
+2023-08-27 08:50:18,126 - logger_file -INFO - add to cart button clicked successfully
+2023-08-27 08:50:20,755 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:21,011 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:21,245 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:21,319 - logger_file -INFO - login button clicked
+2023-08-27 08:50:21,536 - logger_file -INFO - User is logged in
+2023-08-27 08:50:21,754 - logger_file -INFO - user changed the category
+2023-08-27 08:50:21,854 - logger_file -INFO - user search for Apex Legends
+2023-08-27 08:50:21,937 - logger_file -INFO - search icon clicked
+2023-08-27 08:50:22,087 - logger_file -INFO - item clicked successfully
+2023-08-27 08:50:22,371 - logger_file -INFO - quantity selected
+2023-08-27 08:50:22,460 - logger_file -INFO - add to cart button clicked successfully
+2023-08-27 08:50:22,581 - logger_file -INFO - cart button clicked
+2023-08-27 08:50:22,692 - logger_file -INFO - checkout button clicked
+2023-08-27 08:50:22,778 - logger_file -INFO -  Place order button clicked successfully
+2023-08-27 08:50:23,500 - logger_file -INFO - confirmation message displayed
+2023-08-27 08:50:26,037 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:26,283 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:26,501 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:26,580 - logger_file -INFO - login button clicked
+2023-08-27 08:50:26,757 - logger_file -INFO - User is logged in
+2023-08-27 08:50:26,907 - logger_file -INFO - order section clicked
+2023-08-27 08:50:29,294 - logger_file -INFO - first order in list clicked
+2023-08-27 08:50:29,399 - logger_file -INFO - cancel order button clicked
+2023-08-27 08:50:29,625 - logger_file -INFO - cancelation reason been selected
+2023-08-27 08:50:29,719 - logger_file -INFO - cancel order button clicked
+2023-08-27 08:50:29,827 - logger_file -INFO - cancelation message displayed
+2023-08-27 08:50:32,252 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:32,473 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:32,685 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:32,761 - logger_file -INFO - login button clicked
+2023-08-27 08:50:32,970 - logger_file -INFO - User is logged in
+2023-08-27 08:50:33,182 - logger_file -INFO - user changed the category
+2023-08-27 08:50:33,275 - logger_file -INFO - user search for Apex Legends
+2023-08-27 08:50:33,352 - logger_file -INFO - search icon clicked
+2023-08-27 08:50:33,504 - logger_file -INFO - item clicked successfully
+2023-08-27 08:50:33,792 - logger_file -INFO - quantity selected
+2023-08-27 08:50:33,886 - logger_file -INFO - add to cart button clicked successfully
+2023-08-27 08:50:33,999 - logger_file -INFO - cart button clicked
+2023-08-27 08:50:34,111 - logger_file -INFO - checkout button clicked
+2023-08-27 08:50:34,188 - logger_file -INFO -  Place order button clicked successfully
+2023-08-27 08:50:34,919 - logger_file -INFO - confirmation message displayed
+2023-08-27 08:50:37,304 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:37,524 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:37,747 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:37,821 - logger_file -INFO - login button clicked
+2023-08-27 08:50:37,988 - logger_file -INFO - User is logged in
+2023-08-27 08:50:38,144 - logger_file -INFO - order section clicked
+2023-08-27 08:50:38,265 - logger_file -INFO - First order clicked
+2023-08-27 08:50:38,366 - logger_file -INFO - return button clicked
+2023-08-27 08:50:38,597 - logger_file -INFO - reaturn reason selected
+2023-08-27 08:50:38,817 - logger_file -INFO - drop off service selected
+2023-08-27 08:50:38,912 - logger_file -INFO - return order button clicked
+2023-08-27 08:50:39,012 - logger_file -INFO - return was successful
+2023-08-27 08:50:41,452 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:41,676 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:41,888 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:41,962 - logger_file -INFO - login button clicked
+2023-08-27 08:50:42,175 - logger_file -INFO - User is logged in
+2023-08-27 08:50:42,325 - logger_file -INFO - order section clicked
+2023-08-27 08:50:42,442 - logger_file -INFO - First order clicked
+2023-08-27 08:50:42,535 - logger_file -INFO - review button clicked
+2023-08-27 08:50:42,769 - logger_file -INFO - user write review
+2023-08-27 08:50:42,869 - logger_file -INFO - add review button clicked
+2023-08-27 08:50:43,524 - logger_file -INFO - review message diplayed
+2023-08-27 08:50:46,050 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:46,300 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:46,513 - logger_file -INFO - email and password entered successfully
+2023-08-27 08:50:46,593 - logger_file -INFO - login button clicked
+2023-08-27 08:50:46,764 - logger_file -INFO - User is logged in
+2023-08-27 08:50:49,218 - logger_file -INFO - TEKSCHOOL logo is displayed
+2023-08-27 08:50:49,486 - logger_file -INFO - signin button clicked
+2023-08-27 08:50:49,567 - logger_file -INFO - Creating new account button clicked
+2023-08-27 08:50:49,958 - logger_file -INFO - Signup Information entered successfully
+2023-08-27 08:50:50,039 - logger_file -INFO - Signup button clicked successfully
+2023-08-27 08:50:50,262 - logger_file -INFO - Account page is displayed
